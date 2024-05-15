@@ -27,10 +27,6 @@ $ sudo ./install.sh
 
 Requires the following dependencies:
 
-- git
-
----
-
 ### 🔖 git
 
 #### 🐧 Install git (Linux)
