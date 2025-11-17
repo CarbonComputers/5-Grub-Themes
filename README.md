@@ -19,7 +19,7 @@ Install Bootloader Themes with ease.
 Simply enter following commands in your terminal :
 
 ```bash
-$ git clone https://github.com/ChrisTiCarbonComputers/Top-5-Bootloader-Themes
+$ git clone https://github.com/CarbonComputers/Top-5-Bootloader-Themes
 $ cd Top-5-Bootloader-Themes
 $ sudo ./install.sh
 ```
