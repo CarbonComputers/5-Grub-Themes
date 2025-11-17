@@ -27,3 +27,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Modified
 - install.sh
 - README.md
+
+## [1.0.1](https://github.com/carboncomputers/Top-5-Bootloader-Themes/releases/tag/1.0.1)
+
+### Added
+- New background
+
+
+### Modified
+- Theme folder background.png
